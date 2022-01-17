@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">City AQI</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="str_aqi">AIR QUALITY INDEX</string>
+    <string name="str_aqi_good">Good</string>
+    <string name="str_aqi_satisfactory">Satisfactory</string>
+    <string name="str_aqi_modrate">Moderate</string>
+    <string name="str_aqi_poor">Poor</string>
+    <string name="str_aqi_vpoor">Very Poor</string>
+    <string name="str_aqi_severe">Severe</string>
+</resources>

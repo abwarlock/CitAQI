@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/enable_refresh"
+        app:showAsAction="never"
+        android:title="Enable Auto Refresh" />
+    <item
+        android:id="@+id/disable_refresh"
+        app:showAsAction="never"
+        android:title="Disable Auto Refresh" />
+</menu>
